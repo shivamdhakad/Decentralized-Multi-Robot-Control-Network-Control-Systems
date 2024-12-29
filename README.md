@@ -1,5 +1,5 @@
 # Multi-Robot Decentralized Task Execution
-[Simulation](https://youtu.be/-7IdHDD1fKw)
+![Simulation](https://youtu.be/-7IdHDD1fKw)
 
 Designed and implemented control strategies for a multi-robot system to autonomously complete complex tasks, including formation initialization, dynamic room coverage, return navigation, and refueling. Developed and tested algorithms such as edge-tension-based formation control, distributed formation graph topologiesand time-varying density (TVD-D0) for efficient task execution, ensuring obstacle avoidance, connectivity maintenance, and collision-free operation. Optimized system performance by addressing challenges like boundary constraints and formation stability in dynamic environments. Successfully validated the approach in a real world environment (robotarium) with real-time execution.
 
